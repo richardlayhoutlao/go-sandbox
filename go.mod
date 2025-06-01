@@ -1,3 +1,3 @@
-module example.com/investment-calculator
+module example.com/first-app
 
-go 1.21.6
+go 1.24.3
